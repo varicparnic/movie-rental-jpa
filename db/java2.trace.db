@@ -1,0 +1,93 @@
+2024-05-16 14:32:43.212748+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 14:50:39.167198+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 14:51:51.377945+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 14:52:20.720207+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 14:53:36.174537+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 15:10:42.616588+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 15:10:52.418411+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 15:11:06.675048+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 15:19:19.418634+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 15:19:28.693903+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 15:20:45.272283+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 15:20:51.380631+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 15:21:37.209946+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 15:55:55.318620+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 15:56:26.932454+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 15:56:38.784728+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 15:59:07.070136+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 15:59:53.939333+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 16:03:51.175868+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 16:04:43.060924+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 16:04:52.542659+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 16:14:54.278995+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 16:14:54.279202+02:00 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "RENTAL" not found (this database is empty); SQL statement:
+select r1_0.id,r1_0.customer_id,r1_0.movie_id,r1_0.rental_date,r1_0.return_date from Rental r1_0 [42104-224]
+2024-05-16 16:14:54.279338+02:00 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found (this database is empty); SQL statement:
+select c1_0.id,c1_0.email,c1_0.first_name,c1_0.last_name from Customer c1_0 [42104-224]
+2024-05-16 16:14:54.279546+02:00 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "GENRE" not found (this database is empty); SQL statement:
+select g1_0.id,g1_0.name from Genre g1_0 [42104-224]
+2024-05-16 16:15:44.298141+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 16:16:05.749362+02:00 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "RENTAL" not found (this database is empty); SQL statement:
+select r1_0.id,r1_0.customer_id,r1_0.movie_id,r1_0.rental_date,r1_0.return_date from Rental r1_0 [42104-224]
+2024-05-16 16:16:05.749457+02:00 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "GENRE" not found (this database is empty); SQL statement:
+select g1_0.id,g1_0.name from Genre g1_0 [42104-224]
+2024-05-16 16:16:05.749430+02:00 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found (this database is empty); SQL statement:
+select c1_0.id,c1_0.email,c1_0.first_name,c1_0.last_name from Customer c1_0 [42104-224]
+2024-05-16 16:16:05.749387+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]
+2024-05-16 16:17:27.681384+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE" not found (this database is empty); SQL statement:
+select m1_0.id,m1_0.director,m1_0.genre_id,m1_0.title from Movie m1_0 [42104-224]

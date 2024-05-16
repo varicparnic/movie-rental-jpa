@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Rental Application</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Movie Rental Application</h1>
+
+<div class="entity">
+    <h2>Movies</h2>
+    <form id="movie-form" onsubmit="submitMovie(event)">
+        <input type="text" id="movie-title" placeholder="Title" required>
+        <input type="text" id="movie-director" placeholder="Director" required>
+        <input type="text" id="movie-genre" placeholder="Genre" required>
+        <button type="submit">Add Movie</button>
+    </form>
+    <div id="movies"></div>
+</div>
+
+<div class="entity">
+    <h2>Customers</h2>
+    <form id="customer-form" onsubmit="submitCustomer(event)">
+        <input type="text" id="customer-name" placeholder="Name" required>
+        <input type="text" id="customer-email" placeholder="Email" required>
+        <button type="submit">Add Customer</button>
+    </form>
+    <div id="customers"></div>
+</div>
+
+<div class="entity">
+    <h2>Rentals</h2>
+    <form id="rental-form" onsubmit="submitRental(event)">
+        <input type="text" id="rental-movieId" placeholder="Movie ID" required>
+        <input type="text" id="rental-customerId" placeholder="Customer ID" required>
+        <button type="submit">Add Rental</button>
+    </form>
+    <div id="rentals"></div>
+</div>
+
+<div class="entity">
+    <h2>Genres</h2>
+    <form id="genre-form" onsubmit="submitGenre(event)">
+        <input type="text" id="genre-name" placeholder="Genre Name" required>
+        <button type="submit">Add Genre</button>
+    </form>
+    <div id="genres"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
